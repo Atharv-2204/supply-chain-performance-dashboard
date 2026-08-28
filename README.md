@@ -1,12 +1,6 @@
-# SupplyLens — Supply Chain Performance Dashboard
+# Supply Chain Performance Dashboard
 
 > An interactive Power BI dashboard analyzing 65,000+ orders from a global supply chain dataset, built on a normalized PostgreSQL star schema.
-
-**Suggested repo name:** `supplylens-dashboard`
-*(alternatives: `supply-chain-performance-dashboard`, `supply-chain-star-schema-bi`)*
-
-**Repo description (for GitHub "About"):**
-> Interactive 3-page Power BI dashboard on a normalized PostgreSQL star schema — tracking delivery performance, profitability, and customer/product insights across 65K+ supply chain orders.
 
 ---
 
@@ -93,7 +87,6 @@ Full measure list in the `.pbix` file under the `_Measures` table.
 ```
 supplylens-dashboard/
 ├── setup.sql                    # Full DB pipeline: schema, indexes, staging, COPY load
-├── supply_chain_theme.json      # Custom Power BI color theme
 ├── supply_chain_dashboard.pbix  # The Power BI report (3 pages)
 ├── README.md
 └── screenshots/                 # Exported dashboard page images
@@ -118,4 +111,6 @@ Source: [DataCo Smart Supply Chain dataset](https://www.kaggle.com/datasets/shas
 
 ## Screenshots
 
-*(add exported PNGs of each dashboard page here, e.g. `/screenshots/page1_overview.png`)*
+/screenshots/page1_executive overview.png
+/screenshots/page2_delivery perfromance.png
+/screenshots/page3_product-customer insights.png
