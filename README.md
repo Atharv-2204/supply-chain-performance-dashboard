@@ -111,6 +111,8 @@ Source: [DataCo Smart Supply Chain dataset](https://www.kaggle.com/datasets/shas
 
 ## Screenshots
 
-![Overview Page](/screenshots/page1_executive overview.png)
-![Overview Page](/screenshots/page2_delivery perfromance.png)
-![Overview Page](/screenshots/page3_product-customer insights.png)
+![Executive Overview](/screenshots/page1_executive_overview.png)
+
+![Delivery Performance](/screenshots/page2_delivery_performance.png)
+
+![Product & Customer Insights](/screenshots/page3_product_customer_insights.png)
